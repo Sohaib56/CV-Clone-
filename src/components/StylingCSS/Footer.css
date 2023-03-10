@@ -1,0 +1,40 @@
+.footer{
+    background-color: rgb(201, 187, 187);
+    height: 100%;
+}
+
+.col1{
+    /* border: 1px solid; */
+    padding: 0px 15px;
+    margin-left: 5px;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.col2{
+    /* border: 1px solid; */
+    padding: 0px 15px;
+    margin-left: 20px;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.col3{
+    /* border: 1px solid; */
+    padding: 0px 15px;
+    margin-left: 20px;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.col4{
+    /* border: 1px solid; */
+    padding: 0px 15px;
+    margin-left: 20px;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+ul{
+    list-style-type:none;
+}
+
+.icon:hover{
+    background-color: rgb(54, 53, 53);
+}

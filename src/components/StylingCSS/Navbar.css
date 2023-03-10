@@ -1,0 +1,28 @@
+.brand-edit{
+    width: 10%;
+}
+.logo-edit{
+    width: 80%;
+    
+}
+.edit{
+    margin: 0px 0px 0px 0px;
+}
+.navbar-toggler{
+    display: flex;
+}
+.navbar ul{
+    text-align: center;
+}
+.hov:hover{
+    background-color: rgb(161, 159, 159);
+    border-radius: 20px;
+}
+
+a{
+    font-family: Arial,Helvetica,sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 15px;
+    letter-spacing: .1em;
+    text-transform: uppercase; 
+}

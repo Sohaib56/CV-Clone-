@@ -1,0 +1,11 @@
+.sev{
+    text-align: center;
+    margin: 100px 0px;
+}
+.colBorder{
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    height: 280px;
+    padding: 40px;
+}

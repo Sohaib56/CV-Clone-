@@ -1,0 +1,40 @@
+.resumeheading{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
+.resumeImg{
+    height: 500px;
+    width:80%
+}
+.sub{
+    font-weight: bolder;
+    color: #96be25;
+    background-color: rgb(231, 223, 223);
+    margin-left: 436px;
+}
+.sub1{
+    font-weight: bolder;
+    color: #96be25;
+    background-color: rgb(231, 223, 223);
+    margin-left: 450px;
+}
+.sub2{
+    font-weight: bolder;
+    color: #96be25;
+    background-color: rgb(231, 223, 223);
+    margin-left: 400px;
+}
+.sub3{
+    font-weight: bolder;
+    color: #96be25;
+    background-color: rgb(231, 223, 223);
+    margin-left: 450px;
+}
+.lasticon{
+    margin-left: 190px;
+}
+.experience{
+    border-bottom:1px solid rgb(201, 199, 199) ;
+    margin-bottom: 50px;
+}

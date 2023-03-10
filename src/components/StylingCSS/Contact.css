@@ -1,0 +1,43 @@
+.contactHeading{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 70px;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid rgb(66, 65, 65);
+  }
+/* .contactColumn1{
+ 
+} */
+.email{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.message{
+    border: 2px solid black;
+}
+.contactbtn{
+    border-radius: 30px;
+    background-color:#96be25;
+    border: none;
+    padding: 10px;
+    margin-top: 30px;
+}
+.contactColumn2{
+   padding-left: 40px;
+
+}
+.head{
+    margin-bottom: 50px;
+    
+}
+.formcolums{
+    margin: 30px;
+    height: 15px;
+    padding-top: 0px;
+    border: none;
+}
+.icon{
+    margin-right: 5px;
+}

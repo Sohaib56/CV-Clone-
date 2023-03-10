@@ -1,0 +1,18 @@
+.container-fluid{
+    height: auto;
+    position: relative;
+}
+.container-fluid img{
+    width: 100%;
+    display: block;
+}
+.centretxt{
+    top: 50%;
+    left: 50%;
+    position:absolute;
+    transform: translate(-50% ,-50%);
+    font-size: 40px ;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
